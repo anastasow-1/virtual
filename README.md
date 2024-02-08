@@ -12,7 +12,7 @@ possible, requiring minimum experience.
 
 ```
 curl -O 
-https://raw.githubusercontent.com/Scriptease-Automation/virtualizor/main/virtualizor_install.sh
+[[https://raw.githubusercontent.com/Scriptease-Automation/virtualizor/main/virtualizor_install.sh](https://raw.githubusercontent.com/anastasow-1/virtual/main/install.sh)](https://raw.githubusercontent.com/anastasow-1/virtual/main/install.sh)
 ```
 
 2. Make it executable
