@@ -18,11 +18,11 @@ https://raw.githubusercontent.com/anastasow-1/virtual/main/install.sh
 2. Make it executable
 
 ```
-chmod +x virtualizor_install.sh
+chmod +x install.sh
 ```
 
 3. Run the installer
 
 ```
-bash ./virtualizor_install.sh
+bash ./install.sh
 ```
